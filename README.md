@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img width="200" alt="hashbrowncat" src="https://github.com/user-attachments/assets/85ee22d3-90b7-4b59-b5d9-7722a0953641" />
-</div>
+</div> -->
 
 
 ![](https://komarev.com/ghpvc/?username=ryanziyue&style=pixel)
