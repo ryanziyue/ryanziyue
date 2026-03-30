@@ -5,12 +5,12 @@
 
 > i study engineering physics at the university of british columbia
 
-> my github contains an assortment of random things i've worked on over time, please take a look!
+> my github contains an assortment of random things i've worked on over time... take a look!
 
 > fun facts about me
 > - i like plants
-> - i like keyboards, and i'm pretty good at typing ([monkeytype](https://monkeytype.com/profile/ryanziyue), [typeracer](https://data.typeracer.com/pit/profile?user=ryanziyue))
-> - i cannot bring my right thumb to full flexion
+> - i like keyboards, and i'm pretty good at typing (my profiles on: [monkeytype](https://monkeytype.com/profile/ryanziyue), [typeracer](https://data.typeracer.com/pit/profile?user=ryanziyue))
+> - i unfortunately cannot bring my right thumb to full flexion
 
 
 
